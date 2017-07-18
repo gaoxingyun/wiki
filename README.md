@@ -2,7 +2,7 @@
 
 #### 环境搭建
 ###### 搭建工具
-- wiki工具[https://github.com/gollum/gollum](https://github.com/gollum/gollum)
+- wiki工具：[https://github.com/gollum/gollum](https://github.com/gollum/gollum)
 
 ###### wiki地址
 - wiki地址：[http://119.23.43.25:12345](http://119.23.43.25:12345)
